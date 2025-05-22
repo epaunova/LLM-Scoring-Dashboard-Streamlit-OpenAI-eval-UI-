@@ -63,5 +63,5 @@ Prompt Design → Output Evaluation → Model Comparison → Human Feedback Loop
 
 👤 Author
 Eva Paunova
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/eva-hristova-paunova-a194b3210/
 📂 Portfolio
